@@ -1,0 +1,1 @@
+module gitlab.com/golang_web_server
